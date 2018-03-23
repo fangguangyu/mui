@@ -177,7 +177,11 @@
 					"examples/list-with-input.html",
 					"examples/tableviews-with-swipe.html",
 					"examples/list-triplex-row.html",
-					"examples/imageviewer-native.html"
+					"examples/imageviewer-native.html",
+					"examples/indexed-list.html",
+					"examples/lazyload-image.html",
+					"examples/slider-native.html",
+					"examples/slider-default.html"
 				],
 				"priority": 0
 			},
