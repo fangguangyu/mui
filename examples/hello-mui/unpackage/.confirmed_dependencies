@@ -1,0 +1,42 @@
+{
+	"index.html": {
+		"refer": [
+			"index-menu.html",
+			"examples/guide.html",
+			"examples/tableviews.html",
+			"examples/pullrefresh_main.html",
+			"examples/login.html",
+			"examples/echarts.html",
+			"examples/ad.html",
+			"examples/tab-vertical-scroll.html",
+			"examples/nav.html",
+			"examples/ajax.html",
+			"examples/switches.html",
+			"examples/im-chat.html",
+			"examples/best-practices/list-to-detail/listview.html",
+			"examples/slider-table-default.html",
+			"examples/grid-pagination.html",
+			"examples/icons.html",
+			"examples/icons-extra.html",
+			"examples/tableviews-with-badges.html",
+			"examples/tableviews-with-collapses.html",
+			"examples/list-with-input.html",
+			"examples/tableviews-with-swipe.html",
+			"examples/list-triplex-row.html",
+			"examples/imageviewer-native.html"
+		]
+	},
+	"examples/pullrefresh_main.html": {
+		"resources": [
+			"examples/pullrefresh_sub.html"
+		],
+		"refer": [
+			"examples/pullrefresh_sub.html"
+		]
+	},
+	"examples/best-practices/list-to-detail/listview.html": {
+		"refer": [
+			"examples/best-practices/list-to-detail/detail.html"
+		]
+	}
+}
